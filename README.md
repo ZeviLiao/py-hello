@@ -8,7 +8,7 @@ $ pyinstaller -F .\hello.py
 ```
 
 File structure  
-![](./asset/images/pic01.jpg)
+![](assets/images/pic01.jpg)
 
 
 ref:  
